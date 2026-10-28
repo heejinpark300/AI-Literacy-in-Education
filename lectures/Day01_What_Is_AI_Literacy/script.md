@@ -1,26 +1,26 @@
 
-# Day 01 — What Is AI Literacy in Education?
+# Day 01 — What Is AI Literacy? Can AI Replace Teachers?
 
 **Series:** AI Literacy in Education  
 **Format:** One-Minute English Lecture  
-**Topic:** Understanding AI Literacy
+**Duration:** Approximately 60 seconds
 
 ## Lecture Script
 
-What does AI literacy mean in education?
+What is AI literacy? And here's a more provocative question: Can AI replace teachers?
 
-Today, artificial intelligence is transforming how we teach and learn. However, using ChatGPT or other AI tools does not automatically make someone AI-literate.
+Today, AI can explain difficult concepts, provide instant feedback, and even personalize learning. So, do we still need human teachers?
 
-AI literacy involves understanding how AI works, critically evaluating its outputs, and using it responsibly.
+To answer this, we first need to understand AI literacy.
 
-For example, when AI provides an answer, students should ask: Is this information accurate? Can I verify it? Should I trust it?
+AI literacy is not simply knowing how to use AI tools. It means understanding their capabilities and limitations, critically evaluating their outputs, and using them responsibly.
 
-Teachers also need to consider whether AI supports students' learning or simply replaces their thinking.
+AI may perform certain teaching tasks more efficiently than humans. But teaching is not just about delivering information. It also involves empathy, human relationships, and ethical judgment.
 
-Ultimately, AI literacy is not just about technology. It is about developing human judgment, critical thinking, and responsible decision-making.
+So, perhaps the real question is not whether AI can replace teachers, but how AI will redefine their roles.
 
-**Remember: AI should support human learning, not replace human thinking.**
+**What do you think? Are human teachers becoming optional?**
 
 ## Reflection Question
 
-How can teachers help students use AI critically and responsibly?
+If AI can teach, assess, and provide feedback, what makes human teachers irreplaceable?
