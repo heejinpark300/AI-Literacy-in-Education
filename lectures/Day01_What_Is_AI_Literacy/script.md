@@ -1,4 +1,4 @@
-lectures/Day01_What_Is_AI_Literacy/script.md
+
 # Day 01 — What Is AI Literacy in Education?
 
 **Series:** AI Literacy in Education  
